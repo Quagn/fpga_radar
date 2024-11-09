@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Nov  9 10:47:48 2024
+# Process ID: 5512
+# Current directory: F:/DuAnCaNhan/fpga/hello_world/hello_world.runs/impl_1
+# Command line: vivado.exe -log myPSdesign_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source myPSdesign_wrapper.tcl -notrace
+# Log file: F:/DuAnCaNhan/fpga/hello_world/hello_world.runs/impl_1/myPSdesign_wrapper.vdi
+# Journal file: F:/DuAnCaNhan/fpga/hello_world/hello_world.runs/impl_1\vivado.jou
+# Running On        :MinObsLaptop
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :12th Gen Intel(R) Core(TM) i5-1235U
+# CPU Frequency     :2496 MHz
+# CPU Physical cores:10
+# CPU Logical cores :12
+# Host memory       :16849 MB
+# Swap memory       :10737 MB
+# Total Virtual     :27586 MB
+# Available Virtual :7220 MB
+#-----------------------------------------------------------
+source myPSdesign_wrapper.tcl -notrace
